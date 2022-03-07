@@ -1,0 +1,6 @@
+Technical test - Template.ipynb
+runs
+.ipynb_checkpoints
+__pycache__
+.idea
+data/*

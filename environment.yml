@@ -1,0 +1,22 @@
+name: dreem-use-case
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - conda-forge::notebook
+  - pytorch::pytorch
+  - pytorch::cpuonly
+  - h5py
+  - scipy
+  - matplotlib
+  - boto3
+  - pandas
+  - scikit-learn
+  - requests
+  - flask
+  - pytorch::torchvision
+  - ipywidgets
+  - tensorboard
+  - pip:
+      - padasip
